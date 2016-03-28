@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[London Samurai]]></title>
         <description><![CDATA[London Samurai]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/london-samurai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 15:33:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 15:42:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/london-samurai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We Won Division 1 and are promoted to Elite! - Samurai Paintball]]></title>
+            <description><![CDATA[<article><h1>We Won Division 1 and are promoted to Elite! - Samurai Paintball</h1><p>We Won Division 1 and are promoted to Elite! What a weekend..... Its been emotional! So proud of everyone for what we have achieved. Buzzing just doesn't cut it! After winning 4 games in Prelims and the Semi Final, we went out and won the Final.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fda494becc40be2c92fd797221b6b199945f210.jpg"></article>]]></description>
+            <link>http://www.samuraipaintball.com/won-division-1-promoted-elite/</link>
+            <guid isPermaLink="false">bbf92e2b-fe34-4786-b0e7-f3f67defcd19</guid>
+            <pubDate>Mon, 28 Mar 2016 15:42:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Interview with James Riley - Samurai Paintball]]></title>
             <description><![CDATA[<article><h1>An Interview with James Riley - Samurai Paintball</h1><p>LSP: James, could you introduce yourself? "My name is James Riley, I play for London Samurai MV and am the Owner and Manager of London Samurai Paintball." "I was born in Germany in 1975, my father was a GI based in Frankfurt, this is how my parents met.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75c7183bdd377bff877cead34bbe43d2ad29a9e.jpg"></article>]]></description>
