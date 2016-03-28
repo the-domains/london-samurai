@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.4336918
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#717275'
+    - '#9D0A0E'
+    - '#39393A'
+  rhythmicContrast: 0.8422939
+typography_spectrum: 0.09139785
+name: London Samurai
